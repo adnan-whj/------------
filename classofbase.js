@@ -1,4 +1,5 @@
-/*class bse{
+//baseclass for ground
+class bse{
     constructor(x,y,width,height){
      var options={
         isStatic : true
@@ -16,4 +17,4 @@
       rect(pos.x,pos.y,this.width,this.height);
     }
   
-  }*/
+  }
