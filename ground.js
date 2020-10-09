@@ -1,4 +1,4 @@
-class Ground extends bse{
+class Ground /*extends bse*/{
     constructor(x,y,width,height){
      super(x,y,width,height);
   }
